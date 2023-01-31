@@ -12,4 +12,5 @@ love="football"
 hobby="cooking"
 
 
-print(name+"  " + surname+"  "+str(age)+" "+str(height)+" " +identity+" "+str(is_man)+"  "+ str(knows_programing)+" "+nikcname+" "+ love+ ""+hobby+" " )
+print(name+"  " + surname+"  "+str(age)+" "+str(height)+" " +identity+" "+str(is_man)+"  "+ str(knows_programing)+" "+nikcname+" "+ love +" "+ hobby +" " )
+
