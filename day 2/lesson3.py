@@ -41,9 +41,9 @@
 
 #full_name="misho berdzenishvili"
 # print(full_name.upper())
-name="    misho berdzenishvili   "
+#name="    misho berdzenishvili   "
 # print(name.lower())
 # print(name.strip())
 #strip  ზედმეტ სფეისებს აჭრის სიტყვას
 
-print(name. replace("i","$") )
+#print(name. replace("i","$") )
